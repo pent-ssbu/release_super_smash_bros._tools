@@ -1,0 +1,12 @@
+Release Note
+------------
+get smashmate info
+
+
+Version History
+---------------
+v1.1.0  (date:2019/10/5) 
+- bug fix and refactor code
+
+v1.0.0  (date:2019/6/29) 
+- initial release  
